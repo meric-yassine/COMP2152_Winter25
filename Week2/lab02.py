@@ -32,10 +32,6 @@ def main():
     except ValueError as e:
         print(f"Error {e}")
 
-
-
-
-
 # Run the game
 if __name__ == "__main__":
     main()
